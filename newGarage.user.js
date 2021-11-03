@@ -48,5 +48,5 @@ window.onload = function() {
 
     hackcars(needed_cars);
     /*Updated Version 1.1: Changes money visually.*/
-    hackmoney("$528,905,837");
+    hackmoney("$100,000,000,000");
 }
